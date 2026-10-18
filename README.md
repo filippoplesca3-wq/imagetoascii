@@ -4,8 +4,6 @@ A tiny platformer that lives in a single HTML file. You're a kid stuck inside yo
 
 Made for Hack Club Stardance.
 
-**Play it:** [add your live link here]
-**Hours spent:** [add your real number here]
 
 ## The idea
 
@@ -58,17 +56,6 @@ No install needed.
 1. Download `index.html`.
 2. Open it in any modern browser.
 
-## Devlogs
-
-1. What is this? (the concept)
-2. Making it feel good to jump
-3. Levels, sound and polish
-
-[add links to your devlogs here]
-
-## AI use
-
-I used Claude (Anthropic's AI assistant) to help build this game. [Edit this section to say exactly what you wrote yourself, what Claude helped with, and anything you changed or added.]
 
 ## What's next
 
